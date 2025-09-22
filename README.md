@@ -26,9 +26,11 @@ The **Traffic Management System** is a C++ console-based project that simulates 
    ./traffic
 ```
 ## EXAMPLE INTERAFCE
+
 =========================================================
                  Traffic Management System               
 =========================================================
+
 1. Add Intersection
 2. Add Vehicle
 3. Clear Vehicles
@@ -43,7 +45,9 @@ The **Traffic Management System** is a C++ console-based project that simulates 
 12. Save Data
 13. Load Data
 0. Exit
+
 =========================================================
+
 ## Future Improvements
 
 GUI version with visualization
